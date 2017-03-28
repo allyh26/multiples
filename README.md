@@ -3,7 +3,7 @@ Multiples
 
 Summary
 -------
-Doubles the user number.
+Multiplies the user number by 2-10.
 
 Author
 ------
